@@ -1,9 +1,11 @@
 Welcome to Derek McGuire's Final Project Repository!
 
+"The Tree Harvest"
+
 Please see the following Documents:
-<br>Final Project - Proposal Template - PDF
-<br>The Tree Harvest - ERD (PDF)
-<br>The Tree Harvest - URI Mapping (PDF)
+<br>1. Final Project - Proposal Template - PDF
+<br>2. The Tree Harvest - ERD (PDF)
+<br>3. The Tree Harvest - URI Mapping (PDF)
 
 These documents explain the project, the Entity Relationships, and the "commands" to use in the REST Web API Server of your choice.
 
