@@ -1,23 +1,14 @@
-Project Participants: Derek McGuire (Solo)
+Welcome to Derek McGuire's Final Project Repository!
 
-Title:
-The Tree Harvest
+Please see the following Documents:
+Final Project - Proposal Template - PDF
+The Tree Harvest - ERD (PDF)
+The Tree Harvest - URI Mapping (PDF)
 
-Executive Summary:
-The Tree Harvest REST Web API is designed to work for Foresters who are working in multiple tree fields to harvest multiple trees. There are many locations. Every location has multiple tree names. This is essentially an API that shows where a Forester has been and which Trees have been harvested.
+These documents explain the project, the Entity Relationships, and the "commands" to use in the REST Web API Server of your choice.
 
-Initial Features:
-Get a List of Trees
-Get a List of Tree Fields
-Get a List of Foresters
-Create Foresters
-Update Foresters
-Delete Foresters
+Please note that this project has the dependencies for Swagger in place.
 
-Database Design:
-See ERD
+Also, there is a "drops.sql" file that has a quick script to drop all the tables in case you want to start over. It is recommended that you use "data.sql" and run the INSERT statements to establish the trees.
 
-Stretch Goals:
-Get a list of only those trees that have been harvested in certain parks
-Genus name (from Binomial Name. This would be a one to many situation. One Genus name has many common names)
-Adding Photos
+There are JSON files to easily copy and paste into a REST Web API Server that allow you to create Foresters, Tree Fields, and Trees.

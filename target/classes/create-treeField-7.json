@@ -1,0 +1,14 @@
+{
+  "treeFieldName": "Ouachita National Forest",
+  "treeFieldDescription": "The Ouachita National Forest covers nearly 1.8 million acres in central Arkansas and southeast Oklahoma.  It is the oldest and largest National Forest in the Southern Region.",
+  "treeFieldCity": "Hot Springs",
+  "treeFieldState": "AR",
+  "treeFieldCountry": "USA",
+  "fieldGeoLocation": {
+    "latitude": "34.50957",
+    "longitude": "93.05188"
+  },
+  "trees": [
+    "Southern Yellow Pine"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "treeFieldName": "Hoosier National Forest",
+  "treeFieldDescription": "Hoosier National Forest, in the hills of south central Indiana, provides a wide mix of opportunities and resources for people to enjoy.",
+  "treeFieldCity": "Paoli",
+  "treeFieldState": "IN",
+  "treeFieldCountry": "USA",
+  "fieldGeoLocation": {
+    "latitude": "38.55703",
+    "longitude": "86.46844"
+  },
+  "trees": [
+    "Eastern White Pine"
+  ]
+}
