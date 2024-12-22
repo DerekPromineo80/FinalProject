@@ -1,5 +1,5 @@
 Welcome to Derek McGuire's Final Project Repository!
-The Final Project was completed on 11/9/2024
+<br>The Final Project was completed on 11/9/2024
 
 "The Tree Harvest"
 
