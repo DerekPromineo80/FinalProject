@@ -25,7 +25,7 @@ public class TreeFieldData {
 	private String treeFieldState;	
 	private String treeFieldCountry;		
 	private GeoLocation fieldGeoLocation;
-	private TreeFieldForester forrester;
+	private TreeFieldForester forester;
 	private Set<String> trees = new HashSet<>();
 	
 	public TreeFieldData(TreeField treeField) {
@@ -36,7 +36,7 @@ public class TreeFieldData {
 		treeFieldState = treeField.getTreeFieldState();
 		treeFieldCountry = treeField.getTreeFieldCountry();
 		fieldGeoLocation = treeField.getFieldGeoLocation();
-		forrester = new TreeFieldForester(treeField.getForester());
+		forester = new TreeFieldForester(treeField.getForester());
 				
 		// Cycles through trees and returns them all:
 		for(Tree tree : treeField.getTrees()) {

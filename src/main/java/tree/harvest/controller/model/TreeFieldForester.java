@@ -1,6 +1,7 @@
 package tree.harvest.controller.model;
 
 import lombok.Data;
+
 import lombok.NoArgsConstructor;
 import tree.harvest.entity.Forester;
 

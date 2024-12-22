@@ -8,6 +8,11 @@ import tree.harvest.entity.Forester;
 
 public interface ForesterDao extends JpaRepository<Forester, Long>{
 
-	Optional<Forester> findByForesterEmail(String forresterEmail);
+	/**
+	 * 
+	 * @param foresterEmail
+	 * @return a forester using their Email
+	 */
+	Optional<Forester> findByForesterEmail(String foresterEmail);
 
 }
